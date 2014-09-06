@@ -1,5 +1,5 @@
 {
-  "name": "jquery-numeric-SamWM",
+  "name": "jquery-numeric",
   "version": "1.4",
   "main" : "dist/jquery-numeric.js",
   "ignore": [],
