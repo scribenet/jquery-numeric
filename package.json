@@ -1,0 +1,26 @@
+{
+  "name": "jquery-numeric",
+  "version": "2.0.0-dev",
+  "description": "Simple method for restricting input boxes to numeric entries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scribenet/jquery-numeric.git"
+  },
+  "author": "Rob Frawley 2nd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scribenet/jquery-numeric/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "jshint-stylish": "^2.0.1"
+  }
+}

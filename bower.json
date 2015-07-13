@@ -1,8 +1,11 @@
 {
-  "name": "jquery-numeric",
-  "version": "1.4.2",
-  "ignore": [],
-  "dependencies": {
-  },
-  "main": { "dist/jquery-numeric.js" }
+    "name": "jquery-numeric",
+    "version": "2.0.0-dev",
+    "ignore": [],
+    "dependencies": {
+        "jquery" : ">1.7"
+    },
+    "main": {
+        "dist/jquery-constraint-numeric.js"
+    }
 }
