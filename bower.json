@@ -1,6 +1,6 @@
 {
   "name": "jquery-numeric",
-  "version": "1.4.1",
+  "version": "1.6.0",
   "ignore": [],
   "dependencies": {},
   "main": ["dist/jquery-numeric.js"]
