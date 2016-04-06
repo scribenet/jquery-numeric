@@ -3,5 +3,5 @@
   "version": "1.5.0",
   "ignore": [],
   "dependencies": {},
-  "main": { "dist/jquery-numeric.js" }
+  "main": ["dist/jquery-numeric.js"]
 }
